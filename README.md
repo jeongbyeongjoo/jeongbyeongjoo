@@ -1,17 +1,25 @@
-## 안녕하세요! 백엔드 개발자 정병주입니다. 👋
+## 🚀 안녕하세요! 견고함을 설계하는 백엔드 개발자 정병주입니다.
 
-어떠한 기술적 난관 앞에서도 타협하지 않고, 끝내 명확한 해결책을 찾아 배포하는 것을 목표로 합니다. 보이지 않는 곳에서 가장 단단하게, 결코 흔들리지 않는 서버를 구축하기 위해 끊임없이 고민하고 있습니다.
+> **"보이지 않는 곳에서 가장 단단하게, 결코 흔들리지 않는 서버를 구축합니다."**
 
-### 🛠 Tech Stack
-- **Backend**: Java, Spring Boot
-- **Database**: MySQL
-- **Infrastructure & DevOps**: AWS (EC2, S3), Docker, Nginx
-- **Algorithm**: Python
+어떠한 기술적 난관 앞에서도 타협하지 않고, 집요한 고민을 통해 끝내 명확한 해결책을 찾아 서비스로 구현해냅니다. 트래픽의 파도 속에서도 시스템의 안정성을 유지하는 탄탄한 아키텍처 설계에 열정을 쏟고 있습니다.
 
-### 🚀 Current Learning & Doing
-- 트래픽의 파도 속에서도 시스템의 견고함을 유지하는 아키텍처 설계
-- 지속적인 서비스 최적화 및 CI/CD 파이프라인 고도화
+<br>
 
-### 📫 Contact
-- **Email**: jbj030108@icluod.com
-- **Intsagram**: https://www.instagram.com/joo._.0l08/
+### 🛠 기술 스택
+
+**백엔드 및 데이터베이스**
+<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
+**인프라 및 배포**
+<br>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+
+**알고리즘**
+<br>
+<img src="
